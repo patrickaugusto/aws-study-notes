@@ -37,10 +37,26 @@ Este laboratório tem como objetivo reforçar o uso básico da **linha de comand
 chmod 400 labsuser.pem
 ``` 
 
+<img width="94" height="98" alt="Image" src="https://github.com/user-attachments/assets/bab8b6c0-0b8d-4f34-a1c6-1f8fe17b1897" />
+ -->  
+<img width="94" height="98" alt="Image" src="https://github.com/user-attachments/assets/2d454b1f-a83a-44cf-8448-8fb825e0c301" />
+
+> Explicar brevemente o comando e o que ocorreu.
+
 Conecte-se com o comando:
 
 ```bash
 ssh -i labsuser.pem ec2-user@<public-ip>
 ```
+> substituir "<public-ip>" pelo ip publico do servidor.
+
+> explicar brevemente o comando.
 
 Digite **yes** ao confirmar a primeira conexão.
+
+<img width="655" height="441" alt="Image" src="https://github.com/user-attachments/assets/87fcb5a0-f4aa-45b9-9dac-c814e6a648f1" />
+
+> explicar pq o user foi para ec2-user@ip-10-0-10-17.
+
+## 🔹 
+Tarefa 2: Explorando as man pages no Linux
